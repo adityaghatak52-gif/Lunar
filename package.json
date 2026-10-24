@@ -1,0 +1,9 @@
+{
+  "name": "lunar-cloud-website",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Lunar Cloud multi-page website - dependency-free Node.js server",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
